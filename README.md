@@ -1,4 +1,4 @@
-# Netflix System Design & Architectural Analysis 📺
+# Netflix System Design & Architectural Analysis 
 
 A comprehensive logical blueprint of the Netflix streaming ecosystem, analyzing end-to-end workflows and system interactions through structured and object-oriented design.
 
